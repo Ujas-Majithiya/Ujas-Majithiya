@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Cross Platform Developer by heart ♡
+#### A Cross Platform Developer by Heart ♡
 
 Software Engineer at [Simform Solutions](https://www.simform.com/);<br>
 
