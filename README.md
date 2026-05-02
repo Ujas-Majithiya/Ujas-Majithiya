@@ -2,7 +2,7 @@
 
 #### A Cross Platform Developer by Heart ♡
 
-Software Engineer at [Simform Solutions](https://www.simform.com/);<br>
+Software Engineer at [Bread Financial](https://www.breadfinancial.com/);<br>
 
 - ⚙️ Daily use: `.dart`, `.swift`, `.kt`, `.svg`, `.json`
 - 🤝 Some open source contributions: [Audio Waveforms](https://github.com/SimformSolutionsPvtLtd/audio_waveforms), [Splash Master](https://github.com/SimformSolutionsPvtLtd/splash_master), [ShowCaseView](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview), [Flutter Credit Card](https://github.com/SimformSolutionsPvtLtd/flutter_credit_card)
